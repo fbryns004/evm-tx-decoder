@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>TxDecoder.Core</RootNamespace>
+    <AssemblyName>TxDecoder.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
